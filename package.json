@@ -1,0 +1,19 @@
+{
+  "name": "sport_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SuDeeParke/sport_server.git"
+  },
+  "author": "denny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuDeeParke/sport_server/issues"
+  },
+  "homepage": "https://github.com/SuDeeParke/sport_server#readme"
+}
